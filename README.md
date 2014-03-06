@@ -5,6 +5,11 @@ fitbitElevation
 
 Please use this data to learn and create any interesting projects.
 
+Point of interest.  I climbed Mt Kilimanjaro on these dates.
+8/25/2012
+8/26/2012
+8/27/2012
+
 thank you.
 
 Chad Vavra
